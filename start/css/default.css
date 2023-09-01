@@ -1,0 +1,9 @@
+body{
+    background-color: green;
+}
+
+@font-face { 
+    font-family: "ddag";
+    src: url("font/ddag.ttf") format("truetype");
+    font-weight: normal;
+  } 
