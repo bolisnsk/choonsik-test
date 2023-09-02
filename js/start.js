@@ -3,7 +3,7 @@ const qna = document.querySelector("#qna");
 const result = document.querySelector("#result");
 
 const endPoint = 12;
-const select = [0,0,0,0,0,0,0,0,0,0,0,0]; //사용자의 첫~끝까지의 선택값 담김
+const select = [0,0,0,0,0,0,]; //사용자의 첫~끝까지의 선택값 담김
 
 function calResult(){
     console.log(select);
