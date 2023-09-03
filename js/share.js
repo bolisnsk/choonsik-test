@@ -1,4 +1,4 @@
-const url = 'https://choonsiklee-test.netlify.app/';
+const url = 'https://choonsiklee-test-1.netlify.app';
 
 function setShare(){
     var resultImg = document.querySelector('#resultImg');
