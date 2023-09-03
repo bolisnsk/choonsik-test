@@ -12,13 +12,16 @@
 }
 
 .resultName{
-    font-family: neurimboGothicRegular;
-    font-weight: 300;
+    font-family: KIMM_Bold;
     font-size: 28px;
 }
 
 .resultDesc{
     font-size: 20px;
+}
+
+button{
+    font-family: 양진체;
 }
 
 .kakao{
@@ -27,7 +30,6 @@
     font-size: 20px;
     border: 0px;
     border-radius: 20px;
-    font-family: 양진체;
 }
 
 .kakao:hover, .kakao:focus{
@@ -41,7 +43,6 @@
     font-size: 20px;
     border: 0px;
     border-radius: 20px;
-    font-family: 양진체;
 }
 
 .gohome:hover, .gohome:focus{

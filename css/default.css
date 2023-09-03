@@ -39,8 +39,8 @@ body{
 }
 
 @font-face {
-    font-family: 'neurimboGothicRegular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/neurimboGothicRegular.woff2') format('woff2');
-    font-weight: normal;
+    font-family: 'KIMM_Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/KIMM_Bold.woff2') format('woff2');
+    font-weight: 300;
     font-style: normal;
 }
