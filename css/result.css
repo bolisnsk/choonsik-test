@@ -5,6 +5,12 @@
     text-align: center;
 }
 
+#shareResult{
+    background-color: whitesmoke;
+    width: 80%;
+    text-align: center;
+}
+
 .resultName{
     font-family: neurimboGothicRegular;
     font-weight: 300;
@@ -25,6 +31,20 @@
 }
 
 .kakao:hover, .kakao:focus{
+    background-color: brown;
+    color: #FEE500;
+}
+
+.gohome{
+    color: brown;
+    background-color: #FEE500;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+    font-family: 양진체;
+}
+
+.gohome:hover, .gohome:focus{
     background-color: brown;
     color: #FEE500;
 }
