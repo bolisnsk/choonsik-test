@@ -20,7 +20,7 @@
 }
 
 .answerList:hover, .answerList:focus{
-    background-color: darkgreen;
+    background-color: darkred;
     color: whitesmoke;
 }
 
@@ -33,6 +33,6 @@
 
 .statusBar{
     height: 100%;
-    background-color: yellow;
+    background-color: gold;
     border-radius: 20px;
 }

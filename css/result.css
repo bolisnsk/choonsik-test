@@ -3,12 +3,12 @@
     background-color: whitesmoke;
     width: 80%;
     text-align: center;
-    border-radius: 10%;
-    font-family: 'Nanum Gothic', sans-serif;
 }
 
 .resultName{
-    font-size: 26px;
+    font-family: neurimboGothicRegular;
+    font-weight: 300;
+    font-size: 28px;
 }
 
 .resultDesc{
@@ -21,9 +21,10 @@
     font-size: 20px;
     border: 0px;
     border-radius: 20px;
+    font-family: 양진체;
 }
 
 .kakao:hover, .kakao:focus{
-    background-color: whitesmoke;
+    background-color: brown;
     color: #FEE500;
 }

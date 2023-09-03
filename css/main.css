@@ -1,18 +1,25 @@
 #main{
     width: 80%;
     text-align: center;
-    font-family: 양진체;
+    font-family: neurimboGothicRegular;
 }
 
 h1{
     font-family: 'SF_HambakSnow';
     font-size: 64px;
     color: red;
-    text-shadow: -1px 0px yellow, 0px 1px yellow, 1px 0px yellow, 0px -1px yellow;
+    text-shadow: -1px 0px white, 0px 1px white, 1px 0px white, 0px -1px white;
+}
+
+h3{
+    font-family: 'SF_HambakSnow';
+    color: darkred;
+    font-size: 48px;
+    text-shadow: -1px 0px white, 0px 1px white, 1px 0px white, 0px -1px white;
 }
 
 p{
     font-size: 24px;
-    color: blue;
-    text-shadow: -0.5px 0px white, 0px 0.5px white, 0.5px 0px white, 0px -0.5px white;
+    color: white;
 }
+

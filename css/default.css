@@ -1,5 +1,7 @@
 body{
-    background-color: gray;
+    background-color: darkblue;
+    font-family: 'HakgyoansimWoojuR';
+    font-weight: 600;
 }
 
 @font-face { 
@@ -32,6 +34,13 @@ body{
 @font-face {
     font-family: 'SF_IceLemon';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_IceLemon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'neurimboGothicRegular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/neurimboGothicRegular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
