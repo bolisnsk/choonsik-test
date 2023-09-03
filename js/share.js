@@ -24,7 +24,7 @@ function setShare(){
             title: '결과 확인하기',
             link: {
               mobileWebUrl: shareURL,
-              webUrl: shareURL
+              webUrl: shareURL,
             },
           },
         ],
