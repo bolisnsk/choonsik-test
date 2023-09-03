@@ -24,6 +24,11 @@
     <link rel="stylesheet" href="./css/qna.css">
     <link rel="stylesheet" href="./css/animation.css">
     <link rel="stylesheet" href="./css/result.css">
+    <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.3.0/kakao.min.js" integrity="sha384-70k0rrouSYPWJt7q9rSTKpiTfX6USlMYjZUtr1Du+9o4cGvhPAWxngdtVZDdErlh" crossorigin="anonymous"></script>
+    <script>
+        Kakao.init('a35a76352194454694454a083e2b8d71');
+        Kakao.isInitialized();
+    </script>
     <title>춘식리 유형 테스트</title>
 </head>
 <body>
@@ -67,11 +72,13 @@
             <p class="info">
                 
             </p>
-            <button type="button" class="kakao mt-3 py-2 px-3">
+            <button type="button" class="kakao mt-3 py-2 px-3"
+                onclick="js:KakaoShare">
                 공유하기</button>
         </section>
         <script src="./js/data.js" charset="UTF-8"></script>
         <script src="./js/start.js" charset="UTF-8"></script>
+        <script src="./js/share.js" charset="UTF-8"></script>
     </div>
 </body>
 </html>
