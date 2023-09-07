@@ -26,6 +26,12 @@ function setResult(){
 
     const resultDesc = document.querySelector('.resultDesc');
     resultDesc.innerHTML = infoList[point].desc;
+
+    const resultRec = document.querySelector('.resultRec');
+    resultRec.innerHTML = infoList[point].rec;
+
+    const resultNrec = document.querySelector('.resultNrec');
+    resultNrec.innerHTML = infoList[point].nrec;
 }
 
 function goResult(){

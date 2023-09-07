@@ -13,11 +13,17 @@
 
 .resultName{
     font-family: KIMM_Bold;
-    font-size: 28px;
+    font-size: 24px;
 }
 
 .resultDesc{
-    font-size: 20px;
+    font-size: 22px;
+}
+
+#recType{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
 }
 
 button{
