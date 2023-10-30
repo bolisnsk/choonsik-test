@@ -1,4 +1,4 @@
-# Near And Dear
+# 춘식리 유형 테스트
 
 ## 📝 프로젝트 개요
 ![Introduce_02](https://github.com/bolisnsk/choonsik-test/assets/50792699/4807a25c-02a3-4b73-aeb3-49a9b17c64d6)
