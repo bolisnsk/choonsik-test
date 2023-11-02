@@ -22,8 +22,8 @@
 
 ### 2. 심리 테스트 진행 화면
 ![List](https://github.com/bolisnsk/choonsik-test/assets/50792699/e7bd021f-a847-4090-a8f3-9f0b9ef9659b)
-<li> 상단바를 통해 진행 상태를 알 수 있습니다. </li>
+<li> 상단바를 통해 진행 상태를 알 수 있습니다. </li> <br/>
 
-###실행영상(GIF)
+### 실행영상(GIF)
 ![ezgif com-video-to-gif](https://github.com/bolisnsk/choonsik-test/assets/50792699/b558440a-94f0-4766-b6ff-662c4a9be6bb)
 
