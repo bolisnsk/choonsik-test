@@ -26,6 +26,15 @@
     font-size: 22px;
 }
 
+.resultRec{
+    width: 135px;
+    margin-right: 10px;
+}
+
+.resultNrec{
+    width: 135px;
+}
+
 button{
     font-family: 양진체;
 }
@@ -54,4 +63,23 @@ button{
 .gohome:hover, .gohome:focus{
     background-color: brown;
     color: #FEE500;
+}
+
+@media screen and (max-width:768px){ 
+    .resultName{
+        font-size: 20px;
+    }
+
+    .resultDesc{
+        font-size: 20px;
+    }
+
+    h3{
+        font-size: 36px;
+        word-spacing: 1rem;
+    }
+
+    #recType{
+        font-size: 20px;
+    }
 }
