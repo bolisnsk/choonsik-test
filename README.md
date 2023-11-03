@@ -12,7 +12,7 @@
 **주요 기능:** 모바일 반응형 웹, 진행 바, 카카오톡 공유<br/>
 
 ## 🛠 기술 및 도구
-![badge](https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=html&logoColor=white)![badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![badge](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white) ![badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![badge](https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=html&logoColor=white)![badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![badge](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white) ![badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![badge](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=Bootstrap&logoColor=white)
 <br/>
 ## 👨🏻‍💻 실행 화면
 ### 1. 메인화면
