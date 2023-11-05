@@ -2,18 +2,20 @@ body{
     background-color: darkblue;
     font-family: 'HakgyoansimWoojuR';
     font-weight: 600;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1{
     font-family: 'SF_HambakSnow';
     font-size: 64px;
-    color: red;
+    color: rgb(167, 18, 18);
     text-shadow: -1px 0px white, 0px 1px white, 1px 0px white, 0px -1px white;
 }
 
 h3{
     font-family: 'SF_HambakSnow';
-    color: darkred;
+    color: rgb(167, 18, 18);
     font-size: 44px;
     text-shadow: -1px 0px white, 0px 1px white, 1px 0px white, 0px -1px white;
 }

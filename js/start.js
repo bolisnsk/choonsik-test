@@ -1,6 +1,7 @@
 const main = document.querySelector("#main");
 const qna = document.querySelector("#qna");
 const result = document.querySelector("#result");
+const allchon = document.querySelector("#allRes");
 
 const endPoint = 12;
 let select = [0,0,0,0,0,0,]; //사용자의 첫~끝까지의 선택값 담김
@@ -110,6 +111,7 @@ function begin(){
         goNext(qIdx);
     }, 400);
 }
+
 
 function restart(){
     location.replace(location.href);
