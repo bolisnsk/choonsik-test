@@ -12,7 +12,7 @@
 **주요 기능:** 모바일 반응형 웹, 진행 바, 카카오톡 공유<br/>
 
 ## 🛠 기술 및 도구
-![badge](https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=html&logoColor=white)![badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![badge](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white) ![badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![badge](https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=html&logoColor=white)![badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![badge](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white) ![badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![badge](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=Bootstrap&logoColor=white)
 <br/>
 ## 👨🏻‍💻 실행 화면
 ### 1. 메인화면
@@ -22,6 +22,13 @@
 
 ### 2. 심리 테스트 진행 화면
 ![List](https://github.com/bolisnsk/choonsik-test/assets/50792699/e7bd021f-a847-4090-a8f3-9f0b9ef9659b)
-<li> 상단바를 통해 진행 상태를 알 수 있습니다. </li>
+<li> 상단바를 통해 진행 상태를 알 수 있습니다. </li> <br/>
 
+### 3. 심리 테스트 결과 화면
+<img width="1263" alt="cdd" src="https://github.com/bolisnsk/choonsik-test/assets/50792699/581a025e-05d1-4b68-ab6e-6a733b817271">
+<img width="1263" alt="sdf" src="https://github.com/bolisnsk/choonsik-test/assets/50792699/5f7eeb0f-ccbe-41a5-afa1-df123693df10">
+<li> 카카오톡 공유하기가 가능하며 다시하기 버튼을 통해 처음으로 돌아가 다시 시작합니다. </li> <br/>
+
+### 실행영상(GIF)
+![ezgif com-video-to-gif](https://github.com/bolisnsk/choonsik-test/assets/50792699/b558440a-94f0-4766-b6ff-662c4a9be6bb)
 
