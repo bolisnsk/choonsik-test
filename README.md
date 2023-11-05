@@ -28,6 +28,7 @@
 <img width="1263" alt="cdd" src="https://github.com/bolisnsk/choonsik-test/assets/50792699/581a025e-05d1-4b68-ab6e-6a733b817271">
 <img width="1263" alt="sdf" src="https://github.com/bolisnsk/choonsik-test/assets/50792699/5f7eeb0f-ccbe-41a5-afa1-df123693df10">
 <li> 카카오톡 공유하기가 가능하며 다시하기 버튼을 통해 처음으로 돌아가 다시 시작합니다. </li> <br/>
+(23.11.06 결과 화면에서 모든 유형 보기 버튼 추가. 유형 모아둔 페이지로 넘어갑니다.)<img width="301" alt="aef" src="https://github.com/bolisnsk/choonsik-test/assets/50792699/651a273b-2b13-4b8b-b1c3-b61eae75b2f9"><br/>
 
 ### 실행영상(GIF)
 ![ezgif com-video-to-gif](https://github.com/bolisnsk/choonsik-test/assets/50792699/b558440a-94f0-4766-b6ff-662c4a9be6bb)
